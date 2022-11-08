@@ -1,5 +1,5 @@
 
-Code for  "Adaptive Distribution Calibration for Few-Shot Learning with Hierarchical Optimal Transport", submitted to NeurIPS 2022.
+Code for  "Adaptive Distribution Calibration for Few-Shot Learning with Hierarchical Optimal Transport", in NeurIPS 2022.
 
 Requirements
 
